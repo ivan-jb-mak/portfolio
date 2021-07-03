@@ -1,0 +1,6 @@
+.container .container2 {
+  display: grid;
+  place-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
